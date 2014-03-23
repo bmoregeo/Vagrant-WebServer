@@ -1,0 +1,1 @@
+cookbook_path ['/Users/christopherfricke/Documents/VMs/WebServer/chef_recipes/cookbooks']
